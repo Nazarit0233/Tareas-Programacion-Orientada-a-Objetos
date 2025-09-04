@@ -7,7 +7,7 @@ public class App {
 		Buga buga = null;
 		Cali cali = null;
 		boolean salir = false;
-		final int MINIMO_REFERENDO = 1500000; // Puedes ajustar este valor según el requerimiento
+		final int MINIMO_REFERENDO = 1500000;
 
 		while (!salir) {
 			System.out.println("\n--- MENÚ ---");
